@@ -1,0 +1,19 @@
+.jumbotron {
+    background-color: coral;
+}
+
+h1 {
+    font-family: 'Lobster', cursive;
+    color: black;
+    font-size: 48px;
+}
+
+body {
+    background-color: coral;
+}
+
+li{
+    background-color: lightgray;
+    min-height: 40px;
+    border: 2px solid lightsalmon;
+}
